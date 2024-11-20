@@ -1,0 +1,7 @@
+streamlit==1.31.0
+python-dotenv==1.0.0
+scikit-learn
+numpy
+langchain
+google-cloud-aiplatform
+langchain-google-vertexai
