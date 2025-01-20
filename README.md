@@ -41,8 +41,6 @@ Professional responses
 
 
 🚀 Setup & Installation
-# Clone repository
-git clone https://github.com/yourusername/medical-ai-assistant.git
 
 # Install dependencies
 pip install -r requirements.txt
