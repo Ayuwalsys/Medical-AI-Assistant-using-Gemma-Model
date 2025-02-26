@@ -78,6 +78,7 @@ medical-ai-assistant/
 │   ├── medical_context.py    # Context enhancement
 │   └── severity_assess.py    # Severity classification
 └── requirements.txt          # Dependencies
+![image](https://github.com/user-attachments/assets/3043fa20-e9aa-4925-b2ed-309e3e4e93d6)
 
 
 
