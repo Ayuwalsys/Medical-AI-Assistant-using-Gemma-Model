@@ -31,7 +31,7 @@ Interactive consultation interface
 Statistical tracking
 
 
-📊 Dataset
+Dataset
 250,000+ medical dialogues
 Patient-Doctor conversations
 Structured format:
@@ -40,7 +40,7 @@ Medical context
 Professional responses
 
 
-🚀 Setup & Installation
+Setup & Installation
 
 # Install dependencies
 pip install -r requirements.txt
@@ -53,7 +53,7 @@ export VERTEX_AI_ENDPOINT="your-endpoint"
 streamlit run app.py
 
 
-## 📝 Usage
+## Usage
 1. Enter medical concern in the text area
 2. Click "Get Medical Advice"
 3. Receive structured medical response with:
@@ -61,7 +61,7 @@ streamlit run app.py
    - Medical context
    - Professional guidance
 
-## ⚠️ Important Notes
+## Important Notes
 - For informational purposes only
 - Not a replacement for professional medical advice
 - Consult healthcare providers for medical decisions
@@ -74,13 +74,13 @@ streamlit run app.py
 
 
 
-## 🤝 Contributing
+## Contributing
 Contributions welcome! Please read our contributing guidelines before submitting PRs.
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - Medical dataset providers
 - Google Cloud Platform
 - Open-source community
@@ -89,11 +89,11 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - Project Link: [https://github.com/ayuwal12/medical-ai-assistant](https://github.com/ayuwal12/medical-ai-assistant)
 - Your Name - [@twitter profile link](https://twitter.com/ayuwal12)
 
-## 🔮 Future Improvements
+## Future Improvements
 - Multi-modal capabilities
 - Enhanced medical knowledge base
 - Automated testing implementation
 - Advanced caching mechanisms
 
 ---
-⚡️ Developed with focus on medical accuracy and user safety
+Developed with focus on medical accuracy and user safety
