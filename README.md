@@ -1,5 +1,5 @@
 
-# 🏥 Medical AI Assistant
+# Medical AI Assistant
 An intelligent medical consultation system powered by Gemma 7B LLM, providing preliminary health guidance and severity assessment through an interactive interface.
 
 
@@ -11,7 +11,7 @@ Frontend: Streamlit
 Deployment: Google Cloud Vertex AI
 
 
-🔧 Implementation Details
+Implementation Details
 Model Architecture:
 # LoRA Configuration
 lora_config = LoraConfig(
@@ -85,9 +85,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - Google Cloud Platform
 - Open-source community
 
-## 📞 Contact
+## Contact
 - Project Link: [https://github.com/ayuwal12/medical-ai-assistant](https://github.com/ayuwal12/medical-ai-assistant)
-- Your Name - [@twitter profile link](https://twitter.com/ayuwal12)
+- Waliu Ayuba - [@twitter profile link](https://twitter.com/ayuwal12)
 
 ## Future Improvements
 - Multi-modal capabilities
